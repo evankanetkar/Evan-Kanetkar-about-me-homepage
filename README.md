@@ -6,3 +6,4 @@ to open the web page you need to double click the html file, and to view the cod
 Unfortunately, due to the size of the image files included on the actual homepage, uploading them was not possible, so it may look a little bare, but the bones are there nonetheless. 
 the css file shows all the code dictating where everything is on the page. 
 the html file directs you to the homepage itself
+NOTE* when you download the html file, you will not be able to see the code, you will only be directed to the page. If you would like to view the code, you must view it on github by clicking the file in this repository. 
